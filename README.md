@@ -53,7 +53,7 @@ This service is designed to simplify interaction with an Entity Instances backen
 ## 🛠️ Installation & Setup
 
 \`\`\`bash
-mkdir -p go-api-service
+git clone https://github.com/c4chakri/go-adapter-service.git
 cd go-api-service
 go mod init go-api-service
 go mod tidy
